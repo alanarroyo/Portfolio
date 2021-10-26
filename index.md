@@ -3,8 +3,14 @@
 
 ## Project 1 
 
-Text
+---
+output: html_document
+---
 
+```{r attr.source="style='display:inline-block;'", collapse=TRUE}
+1:10  # a sequence from 1 to 10
+10:1  # in the reverse order
+```
 
 ## Project 2
 
