@@ -1,4 +1,4 @@
-## Alan's Portfolio
+# Alan's Portfolio
 
 
 ## Welcome to GitHub Pages
