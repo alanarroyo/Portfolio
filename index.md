@@ -1,8 +1,8 @@
-## Project 1 
+### Project 1 
 (Image)
 Text
 
-## Project 2
+### Project 2
 (Image)
 Text
 
