@@ -2,7 +2,7 @@
 ![Alt Text src*='#center'](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif#center)
 
 
- Hello, this is some text that hopefuly is to the right of the image.
+ Hello, this is some placeholder text.
 ## Project 1 
 
 ---
