@@ -1,32 +1,13 @@
 ## Project 1 
-
----
-output: html_document
----
-
-:::: {style="display: flex;"}
-
-::: {}
-Here is the **first** Div.
-
-```{r}
-str(iris)
-```
-:::
-
-::: {}
-And this block will be put on the right:
-
-```{r}
-plot(iris[, -5])
-```
-:::
-
-::::
+(Image)
+Text
 
 ## Project 2
-
+(Image)
 Text
+
+
+
 
 ## Welcome to GitHub Pages
 
