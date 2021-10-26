@@ -7,10 +7,25 @@
 output: html_document
 ---
 
-```{r attr.source="style='display:inline-block;'", collapse=TRUE}
-1:10  # a sequence from 1 to 10
-10:1  # in the reverse order
+:::: {style="display: flex;"}
+
+::: {}
+Here is the **first** Div.
+
+```{r}
+str(iris)
 ```
+:::
+
+::: {}
+And this block will be put on the right:
+
+```{r}
+plot(iris[, -5])
+```
+:::
+
+::::
 
 ## Project 2
 
