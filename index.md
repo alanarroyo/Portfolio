@@ -1,5 +1,7 @@
 # Alan's Portfolio
 ![Alt Text >](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif#center)
+
+
  Hello, this is some text that hopefuly is to the right of the image.
 ## Project 1 
 
