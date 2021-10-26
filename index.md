@@ -1,5 +1,6 @@
 ## Project 1 
-![Alt Text](actors_analysis.gif)
+
+<img src="actors_analysis.gif)" width="250" height="250"/>
 
 
 Text
