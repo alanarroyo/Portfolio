@@ -1,7 +1,7 @@
 # Alan Arroyo
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/e/e7/Necker_cube.svg)
+
 
  Hello, this is some placeholder text.
 ## Project 1 
