@@ -1,10 +1,3 @@
-# Alan Arroyo
-
-[//]: ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-
-
- Hello, this is some placeholder text.
 ## Project 1 
 
 ---
