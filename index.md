@@ -1,4 +1,5 @@
 # Alan's Portfolio
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Project 1 
 
