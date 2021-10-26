@@ -1,6 +1,7 @@
 # Alan Arroyo
-![Alt Text src*='#center'](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif#center)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+![Alt text](https://en.wikipedia.org/wiki/Optimal_solutions_for_Rubik%27s_Cube#/media/File:Scramble.svg)
 
  Hello, this is some placeholder text.
 ## Project 1 
