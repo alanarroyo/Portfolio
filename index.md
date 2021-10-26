@@ -1,5 +1,7 @@
 ## Project 1 
-(Image)
+![Alt Text](actors_analysis.gif)
+
+
 Text
 
 ## Project 2
