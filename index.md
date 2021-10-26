@@ -1,6 +1,6 @@
 ## Project 1 
 
-<img src="actors_analysis.gif" width="250" height="250"/>
+<img align="middle" src="actors_analysis.gif" width="250" height="250"/>
 
 
 Text
