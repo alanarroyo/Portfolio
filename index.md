@@ -6,8 +6,6 @@
 
 - Analysed the nationalities of the individuals involved in the illegal trafficking of cocaine in Europe, according to the scale of trafficking. 
 - Analysis and visualizations presented in the [World Drug Report 2021 (booklet 4)](https://www.unodc.org/unodc/en/data-and-analysis/wdr-2021_booklet-4.html). 
-- At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-- Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
 
 ## Project 2
