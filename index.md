@@ -4,8 +4,7 @@
 </center>
 
 
-- Analysed the nationalities of the individuals involved in the illegal trafficking of cocaine in Europe, according to the scale of trafficking. 
-- Analysis and visualizations presented in the [World Drug Report 2021 (booklet 4)](https://www.unodc.org/unodc/en/data-and-analysis/wdr-2021_booklet-4.html). 
+Analysed the nationalities of the individuals involved in the illegal trafficking of cocaine in Europe, according to the scale of trafficking. Analysis and visualizations presented in the [World Drug Report 2021 (booklet 4)](https://www.unodc.org/unodc/en/data-and-analysis/wdr-2021_booklet-4.html). 
 
 
 ## Project 2
