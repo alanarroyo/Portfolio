@@ -6,7 +6,7 @@
 
 Analysed the nationalities of the individuals involved in the illegal trafficking of cocaine in Europe, according to the scale of trafficking. Analysis and visualizations presented in the [World Drug Report 2021 (booklet 4)](https://www.unodc.org/unodc/en/data-and-analysis/wdr-2021_booklet-4.html). 
 
-## Project 2: Dashboard to explore the cocaine flows in South America.
+## Project 2: Exploring cocaine flows in South America with a dashboard.
 <center>
   <img src="dashboard_incidents_SA.gif" width="420" height="250"/>
 </center>
