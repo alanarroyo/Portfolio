@@ -8,7 +8,7 @@ Analysed the nationalities of the individuals involved in the illegal traffickin
 
 ## Project 2: Dashboard for exploratory analysis of cocaine flows in South America.
 <center>
-  <img src="dashboard_incidents_SA.gif" width="250" height="250"/>
+  <img src="dashboard_incidents_SA.gif" width="420" height="250"/>
 </center>
 
 ## Project 3: Visualizing spatial and temporal trends of cocaine trafficking in Europe
