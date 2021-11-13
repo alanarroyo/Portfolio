@@ -1,8 +1,10 @@
 theme: jekyll-theme-minimal
 
-title: Alan's Portfolio
+title: Alan Arroyo
 
-description: Data Science | Mathematics
+description: Data Science | Mathematics | 
+Computer Science | Combinatorics and Optimization
+
 
 github:
   is_project_page: false
